@@ -16,7 +16,7 @@
 - Rooted with KSU
 ### Notes
 - *AI wallpaper doesn't seem to work
-- **If you don't like the window blinds, turn off "Window Level Blur" in the developer settings
+- **If you don't like the QS lags, turn off Blur in the developer settings
 - ***1 hertz is a hard lock of 120 hertz (in the camera as well)
 - ****If you don't like the launcher, you can easily upgrade to the stock one
 - Google call app
