@@ -12,7 +12,7 @@
 - Added depth for clock
 - Disabled APK protection (this is NOT DSV)
 - Preinstalled Setedit
-- Installed IOS mod**** xml-p launcher
+- Installed IOS mod**** launcher
 - Rooted with KSU
 ### Notes
 - *AI wallpaper doesn't seem to work
