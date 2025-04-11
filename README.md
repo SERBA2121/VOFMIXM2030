@@ -20,6 +20,7 @@
 - ***1 hertz is a hard lock of 120 hertz (in the camera as well)
 - ****If you don't like the launcher, you can easily upgrade to the stock one
 - Google call app
+- Give rom 24-48 hours to settle
 ### Install guide
 - Unpack rom
 - Start flashing via bat file in rom archive
